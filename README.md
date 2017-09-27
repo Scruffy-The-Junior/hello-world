@@ -7,3 +7,4 @@ From this I expect to strennghten my Linux skills and get a better idea of the c
 I just dropped in to add some more text so I can confirm changes.
 
  - Damir
+September 26. 2017
